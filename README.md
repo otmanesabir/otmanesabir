@@ -41,20 +41,5 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otmanesabir&theme=react&line_height=40&hide=css"/>
     </a>
 </div
-
 <br/>
 
----
-
-### ⭐️ From [Bgstatic](https://github.com/Bgstatic) ### 
-
----
-
-[website]: http://bilgehangecici.site/
-[instagram]: https://www.instagram.com/bilgehangecici
-[linkedin]: https://www.linkedin.com/in/bilgehan-geçici-8b368614a/
-[Spotify]: https://open.spotify.com/user/11153360645
-
-
-----
-Credit: [Bgstatic](https://github.com/Bgstatic)
