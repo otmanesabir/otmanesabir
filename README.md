@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/etuzhs2q7x714ddsgcxxquzrg?si=M_XqqPn4SSmVeoxG0Vp9NQ)
+[![Spotify](https://otmanesabir.vercel.app/api/spotify)](https://open.spotify.com/user/etuzhs2q7x714ddsgcxxquzrg?si=M_XqqPn4SSmVeoxG0Vp9NQ)
 
 ---
 
