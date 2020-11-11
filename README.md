@@ -4,7 +4,7 @@
 ## I'm a Computer Science Student & Software Engineer  
 
 - 👨‍💻 I’m currently working on mobile app development technologies like Flutter, Firebase, etc.
-- 📚 I’m currently researching on my project & thesis about an accelerated algorithm for constructive solid geometry.
+- 📚 I’m currently researching on my project/thesis about an accelerated algorithm for constructive solid geometry.
 - ⚡ Fun fact: I love music - especially Frank Ocean 🎱.
 
 ---
@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/etuzhs2q7x714ddsgcxxquzrg?si=4W27HTRQTsyYZUvMhO0Uig)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/etuzhs2q7x714ddsgcxxquzrg?si=M_XqqPn4SSmVeoxG0Vp9NQ)
 
 ---
 
