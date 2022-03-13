@@ -1,4 +1,4 @@
-# Hi there, I'm OT (or Otmane but if you can pronounce it right).
+# Hi there, I'm OT (or Otmane if you can pronounce it right).
 
 ## I'm a Software Engineer and Computer Science BSc. Graduate
 
