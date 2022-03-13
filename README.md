@@ -1,10 +1,10 @@
 # Hi there, I'm OT (Oh~Tea).
 
-## I'm a CS Student & Software Engineer  
+## I'm a Software Engineer and Computer Science BSc. Graduate
 
-- 👨‍💻 I’m currently working on mobile app development using technologies like Flutter, Firebase, bla, bla, bla...
-- 📚 I’m currently researching on my project/thesis about an accelerated algorithm for constructive solid geometry.
-- 🎙️ I like Frank Ocean
+- 👨‍💻 Currnetly working on as a Full-Stack Engineer designing technical concepts, building new services and improving existing ones.
+- 📚 Enjoy reading, writing, and doing creative work in whichever form it manifests itself.
+- 🎧 I really, really, really enjoy music. 
 
 ## Spotify Playing 🎧
 
