@@ -2,9 +2,9 @@
 
 ## I'm a Software Engineer and Computer Science BSc. Graduate
 
-- 👨‍💻 Currnetly working as a Full-Stack Engineer designing technical concepts, building new services and improving existing ones.
+- 👨‍💻 Currnetly working as an Engineering Manager @ Container xChange.
 - 📚 Enjoy reading, writing, and doing creative work in whichever form it manifests itself.
-- 🎧 I really, really, really enjoy music. 
+- ☕  I like exploring coffee. 
 
 ## Spotify Playing 🎧
 
