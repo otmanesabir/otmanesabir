@@ -1,14 +1,11 @@
 # Hi there, I'm OT (or Otmane if you can pronounce it right).
 
-## I'm a Software Engineer and Computer Science BSc. Graduate
+## I'm a Engineering Manager and a nerd at heart :)
 
-- 👨‍💻 Currnetly working as an Engineering Manager @ Container xChange.
+- 👨‍💻 Currnetly working as an Engineering Manager @ Rabot Energy.
 - 📚 Enjoy reading, writing, and doing creative work in whichever form it manifests itself.
 - ☕  I like exploring coffee. 
 
-## Spotify Playing 🎧
-
-[![Spotify](https://otmanesabir.vercel.app/api/spotify)](https://open.spotify.com/user/etuzhs2q7x714ddsgcxxquzrg?si=M_XqqPn4SSmVeoxG0Vp9NQ)
 
 ## Github Statistics 📈
 
